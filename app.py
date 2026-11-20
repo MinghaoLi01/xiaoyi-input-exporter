@@ -15,7 +15,7 @@ st.info("仅处理公开可访问的小艺分享链接；分享链接及聊天�
 
 links = st.text_area(
     "小艺分享链接（每行一个，最多 20 个）",
-    placeholder="https://xiaoyi.huawei.com/s/ecdab6b387\nhttps://xiaoyi.huawei.com/s/另一个分享ID",
+    placeholder="https://xiaoyi.huawei.com/s/xxxx\nhttps://xiaoyi.huawei.com/s/另一个分享ID",
     height=150,
 )
 
